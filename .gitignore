@@ -1,0 +1,16 @@
+/vendor/
+/update/
+/temp/
+/sqlupdates/
+_ide_helper.php
+node_modules/
+npm-debug.log
+yarn-error.log
+
+storage/*.key
+storage/logs/
+.env
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
